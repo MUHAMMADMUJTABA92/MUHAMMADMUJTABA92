@@ -3,7 +3,7 @@
 - 👀 I’m interested in computer programming 
 - 🌱 I’m currently learning c alnguage as it is a part of our course
 - 💞️ I’m looking to collaborate with different intresting programmers who can guide me and help me in this feild
-- 📫 How to reach me ...you can simply mail me on "muhammadmujtabaofficial92@gmail.com" or you can watapp me "03343142808".
+- 📫 How to reach me ...you can simply mail me on "muhammadmujtabaofficial92@gmail.com" .
 
 
 <!---
