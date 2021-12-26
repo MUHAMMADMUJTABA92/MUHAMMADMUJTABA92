@@ -1,5 +1,5 @@
 - 👋 Hi, I am @MUHAMMADMUJTABA92
 - 🎓 I'm currently studying at National University of Computer and Emerging Sciences (FAST-NUCES).
 - 👀 I’m interested in programming and currently learning `C` language included in our academic programme.
-- 💞️ I’m looking to collaborate with skilled programmers so I can improve and polish my skills.
+- 💞️ I’m looking to collaborate with skilled programmers so I can refine my skills.
 - 📫 Contact me via `muhammadmujtabaofficial92@gmail.com`.
